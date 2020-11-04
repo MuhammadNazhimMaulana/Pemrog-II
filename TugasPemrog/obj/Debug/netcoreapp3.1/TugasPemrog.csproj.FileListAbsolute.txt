@@ -1,0 +1,13 @@
+C:\Users\ASUS\Baru\TugasPemrog\bin\Debug\netcoreapp3.1\TugasPemrog.exe
+C:\Users\ASUS\Baru\TugasPemrog\bin\Debug\netcoreapp3.1\TugasPemrog.deps.json
+C:\Users\ASUS\Baru\TugasPemrog\bin\Debug\netcoreapp3.1\TugasPemrog.runtimeconfig.json
+C:\Users\ASUS\Baru\TugasPemrog\bin\Debug\netcoreapp3.1\TugasPemrog.runtimeconfig.dev.json
+C:\Users\ASUS\Baru\TugasPemrog\bin\Debug\netcoreapp3.1\TugasPemrog.dll
+C:\Users\ASUS\Baru\TugasPemrog\bin\Debug\netcoreapp3.1\TugasPemrog.pdb
+C:\Users\ASUS\Baru\TugasPemrog\obj\Debug\netcoreapp3.1\TugasPemrog.csprojAssemblyReference.cache
+C:\Users\ASUS\Baru\TugasPemrog\obj\Debug\netcoreapp3.1\TugasPemrog.AssemblyInfoInputs.cache
+C:\Users\ASUS\Baru\TugasPemrog\obj\Debug\netcoreapp3.1\TugasPemrog.AssemblyInfo.cs
+C:\Users\ASUS\Baru\TugasPemrog\obj\Debug\netcoreapp3.1\TugasPemrog.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Baru\TugasPemrog\obj\Debug\netcoreapp3.1\TugasPemrog.dll
+C:\Users\ASUS\Baru\TugasPemrog\obj\Debug\netcoreapp3.1\TugasPemrog.pdb
+C:\Users\ASUS\Baru\TugasPemrog\obj\Debug\netcoreapp3.1\TugasPemrog.genruntimeconfig.cache
